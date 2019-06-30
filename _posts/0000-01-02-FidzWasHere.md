@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Vsause egg here
+Stop pinging me discord
 Use the left arrow to go back!
